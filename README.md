@@ -6,7 +6,7 @@
 
 #### This script pulls both the text and imgs from any twitter account and can translate into any language. I just chose @canada's account and french as I thought it would be a good example to use for the demo.
 
-#### I chose this idea because I really wanted to make a twitter bot and noticed that in order to translate a tweet in twitter normally, you would have to click on each individual tweet from the acocunt to get a translation. With my solution, it translates the tweets and you can scroll through the account's full timeline without having to click on each individual tweet
+#### I chose this idea because I really wanted to make a twitter bot and noticed that in order to translate a tweet in twitter normally, you would have to click on each individual tweet from the account to get a translation. With my solution, it translates the tweets and you can scroll through the account's full timeline without having to click on each individual tweet
 
 #### Overall I really enjoyed my time in the CS50P course and I was able to get a hold of python really quickly through these lessons. Looking to try out the AI Course next!
 
